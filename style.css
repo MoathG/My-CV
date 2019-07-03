@@ -1,0 +1,29 @@
+.grid-container {
+
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    background-color: #072815;
+    width: 80%;
+    margin: auto;
+
+}
+
+.intro {
+
+    color: white;
+
+}
+
+.profilePic {
+
+    position: relative;
+    top: 40px;
+
+}
+
+.profilePic img {
+
+    width: 200px;
+    border: #072815 solid 2px;
+
+}
